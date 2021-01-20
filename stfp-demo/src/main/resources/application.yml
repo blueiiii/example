@@ -1,0 +1,15 @@
+server:
+  port: 8083
+
+sfpt:
+  host: 58.211.196.197
+  password: G3xpRzRxHK
+  username: OlayTrialCenter
+  port: 222
+  root:
+    path: /C2/OUT
+    archivepath: /root/C2/ARCHIVE
+    downpath: /C2/OUT/ARCHIVE
+  local:
+    uploadpath: C:\work\upload\
+    downpath: C:\work\download\
