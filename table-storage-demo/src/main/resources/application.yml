@@ -1,0 +1,5 @@
+server:
+  port: 8082
+
+tablestorage:
+  storageConnectionString: TableEndpoint=https://consumercmportalqa01.table.core.chinacloudapi.cn/;SharedAccessSignature=sv=2019-10-10&ss=t&srt=sco&sp=rwdlacu&se=2099-08-19T16:04:16Z&st=2020-08-19T08:04:16Z&spr=https&sig=hJKuoSl45dHUwOmJ%2FC%2Bj4qkIRxKWGqnWZFTIXKqqsvI%3D
