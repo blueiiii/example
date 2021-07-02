@@ -11,7 +11,7 @@
 	</parent>
 	
 	<properties>
-        <es.client.version>6.5.0</es.client.version>
+        <es.client.version>6.8.15</es.client.version>
 	</properties>
 	
   	<dependencies>
